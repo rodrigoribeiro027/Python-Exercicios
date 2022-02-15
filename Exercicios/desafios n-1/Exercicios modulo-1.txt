@@ -1,0 +1,44 @@
+Exercicios do º3 Módulo
+1 - Crie um programa que Escreva "Olá Mundo" Ná tela
+
+2- Crie um programa que Receba o nome de um usuário, sua idade,    seu peso e Imprima os Dados na tela.
+
+3- Crie um programa que Recebe um valor e imprime seu sucessor e antecessor na tela.
+
+4- Crie um programa que receba um valor e mostre seu dobro, seu triplo e sua raiz quadrada
+
+5- Crie um programa que Receba o ano de nascimento do usuario e mostre a sua idade.
+
+6- Receba o preço de um produto e mostre com 25% de desconto
+
+7- Receba um o Salário de um funcionário e calcule com 75% de aumento.
+
+8- Leia um valor e imprima sua tabuada de multiplicação na tela.
+
+9- Receba dois dados e compare se eles são do mesmo Tipo.(use a função interna type()comparar)
+
+10- Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias
+pelos quais ele foi alugado.
+Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
+
+
+11- Crie um programa que receba a IDADE do usuario e imprima na tela quantos meses e dias essa pessoa tem de vida.
+
+12- A importância de R$ 780.000 será dividida entre três ganhadores de um concurso.
+ºO primeiro ganhador receberá 46%
+ºO segundo ganhador receberá 32%
+ºO terceiro receberá o restante
+Calcule e imprima a quantia ganha por cada um dos ganhadores
+
+13- Receba a temperatura em Graus Celsius e apresente-a convertida em graus Fahrenheit.
+formula F=C*(9/5)+32
+
+14- Leia 4 notas e calcule a sua média.
+
+15-  Faça um programa que leia a largura e a altura de uma parede em metros, 
+calcule a sua área e a quantidade de tinta necessária para pintá-la, 
+sabendo que cada litro de tinta pinta uma área de 2 metros quadrados.
+
+
+
+

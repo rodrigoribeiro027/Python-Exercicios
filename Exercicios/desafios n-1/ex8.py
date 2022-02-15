@@ -1,0 +1,12 @@
+'''8- Leia um valor e imprima sua tabuada de multiplicação na tela.'''
+valor = int(input('Insira um valor:\n'))
+print(f'o valor {valor} vezes 1 é {valor* 1}')
+print(f'o valor {valor} vezes 2 é {valor* 2}')
+print(f'o valor {valor} vezes 3 é {valor* 3}')
+print(f'o valor {valor} vezes 4 é {valor* 4}')
+print(f'o valor {valor} vezes 5 é {valor* 5}')
+print(f'o valor {valor} vezes 6 é {valor* 6}')
+print(f'o valor {valor} vezes 7 é {valor* 7}')
+print(f'o valor {valor} vezes 8 é {valor* 8}')
+print(f'o valor {valor} vezes 9 é {valor* 9}')
+print(f'o valor {valor} vezes 10 é {valor* 10}')
