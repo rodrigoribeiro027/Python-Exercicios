@@ -1,0 +1,54 @@
+1- Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, 
+mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
+
+
+
+2- Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+
+
+
+3-Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, 
+cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
+
+
+4-Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. 
+Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
+
+
+
+5-Escreva um programa que Receba um número pelo teclado, se o numero for positivo calcule e mostre
+sua raiz quadrada, se for negativo passe uma mensagem informando valor inválido
+
+
+6-Desenvolva um programa que leia o comprimento de três retas e 
+diga ao usuário se elas podem ou não formar um triângulo.
+
+
+7-Faça um programa que mostre ao usúario um menu com 4 operações matemáticas, depois
+solicite dois valores e realize a operação mostrando os dados na tela.
+
+
+8-Escreva um programa que, receba dois inteiros e mostre o maior valor, e a diferença entre eles,
+se forem iguais mostre uma menssagem.
+
+9-Escreva um programa para aprovar o empréstimo bancário para a compra de uma casa. 
+Pergunte o valor da casa, o salário do comprador e em quantos anos ele vai pagar. 
+A prestação mensal não pode exceder 30% do salário ou então o empréstimo será negado.
+
+10-Uma empresa vende o mesmo produto para quatro estados diferentes. Cada estado possui uma taxa diferente 
+de imposto sobre o produto(MG 7%; SP 12%; RJ 15%; MS 8%). Faça um programa em que o usuário entre com o valor 
+e o estado destinodo produto e o programa retorne o preço final do produto acrescido do imposto do estado em que ele será vendido. 
+Se o estado digitado não for válido, mostre ume mensagem de erro
+
+
+11-Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento:
+
+- à vista dinheiro/cheque: 10% de desconto
+- à vista no cartão: 5% de desconto
+- em até 2x no cartão: preço formal
+- 3x ou mais no cartão: 20% de juros
+
+12 -Faça um programa que receba a altura e o sexo de uma pessoa, calcule e mostre seu peso ideal, utilizando
+a seguinte fórmulas(onde h corresponde á altura):
+  ºHomens (72.7*h) - 58
+  ºMulheres (62.1*h) - 44.7
