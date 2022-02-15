@@ -1,0 +1,53 @@
+1-Faça um programa que Leia um nome e mostre na tela em Maiúsculo e Minúsculo.
+
+
+
+2-Faça um programa que leia um nome e mostre na tela ao contrario em Minúsculo
+
+
+
+3- Crie um programa que leia o nome completo de uma pessoa e mostre: 
+- O nome com todas as letras maiúsculas e minúsculas.
+- Quantas letras ao todo (sem considerar espaços).
+- Quantas letras tem o primeiro nome.
+
+
+
+
+4- Faça um programa que leia uma string com uma frase informada pelo usuário (incluindo espaços em branco), conte:
+
+quantos espaços em branco existem na frase.
+quantas vezes aparecem as vogais a, i, o.
+
+
+
+5-Faça um programa que leia o nome do Usuário e mostre em maiúsculo um em baixo do outro Cinco vezes:
+Utilizar apenas DUAS linhas de código, a primeira para ler, a segunda para IMPRIMIR(OBS: Só serar válido se o código tiver apenas um PRINT())
+
+Exemplo-
+TADEU
+TADEU
+TADEU
+TADEU
+TADEU
+
+
+
+6- Um palíndromo é uma seqüência de caracteres cuja leitura é idêntica se feita da direita para esquerda ou vice-versa. Por exemplo: OSSO e OVO são palíndromos.
+Faça um programa que leia UMA palavra e verifique se é palíndromo, neste programa não consideramos os espaços, apenas UMA PALAVRA.
+
+
+7-Faça um programa que leia o nome completo do Usuário e mostre na tela:
+* Nome completo
+*Primeiro e ultimo nome juntos em apenas uma string
+*Nome do meio 
+
+
+8-Leia dois nomes pelo teclado e imprima:
+ O maior entre eles(Sem considerar espaços), se forem do mesmo tamanho imprima uma mensagen.
+ Quem tem o ultimo nome menor, se forem do mesmo tamanho imprima uma mensagen.
+ Nome do meio ao contrario
+
+
+
+
